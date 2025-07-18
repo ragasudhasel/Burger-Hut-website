@@ -1,10 +1,10 @@
-🍔 Burger Hut — A Delicious Digital Experience!
+**🍔 Burger Hut — A Delicious Digital Experience!**
 
 Welcome to **Burger Hut**, your next-level burger website project that brings sizzling style and savory user experience to life. Whether you're showing off your web dev skills or building a portfolio for a food startup — this site has all the flavor! 🌶️🔥
 
 ---
 
-🔥What is Burger Hut
+**🔥What is Burger Hut**
 
 **Burger Hut** is a responsive, interactive, and visually rich restaurant website designed to simulate a real-world burger outlet. Built entirely with front-end technologies, it offers an engaging user experience from homepage to checkout.
 
@@ -48,7 +48,5 @@ It’s the perfect recipe for:
 3. Clicks "Order Now" → fills out order form  
 4. Enjoys a visually tasty experience! 🍔💫  
 
----
 
-## 📂 Folder Breakdown
 
